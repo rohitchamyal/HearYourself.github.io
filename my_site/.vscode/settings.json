@@ -1,0 +1,8 @@
+{
+    "workbench.settings.editor": "ui",
+    "workbench.settings.useSplitJSON": false,
+    "djlint.formatCss": true,
+    "djlint.preserveBlankLines": true,
+    "djlint.preserveLeadingSpace": true,
+    "djlint.requirePragma": true
+}
